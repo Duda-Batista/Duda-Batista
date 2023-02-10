@@ -1,4 +1,9 @@
-### Hi there 👋
+
+Seja vindo ao meu perfil!✨✨✨
+
+Olá, eu sou a Duda sou estudante DEV estou iniciando minha trajetoria nesse universo de TECH espero ter bastante projetos por aqui!
+
+
 
 <!--
 **Duda-Batista/Duda-Batista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
