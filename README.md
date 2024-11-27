@@ -37,7 +37,11 @@ Você pode me perguntar qualquer coisa, adoro conversar e trocar ideias sobre te
 
 <p alinhar="centro">
   Contagem de visitantes<br>
-  <div align=center><a href='https://contador.s12.com.br'><img src='https://contador.s12.com.br/img-8cBC7bY70bB06YdD-2.gif' border='0' alt='contador free'></a><script type='text/javascript' src='https://contador.s12.com.br/ad.js?id=8cBC7bY70bB06YdD'></script></div>
+
+  <!-- Inicio codigo Contador -->
+<div align="center"><a title="busca cep" href="https://buscacepcorreios.com.br/"><img src="https://contador-gratis.com/contadores-de-visitas/271124063359959.gif" alt="busca cep"></a><div><a href="https://www.contador-gratis.com/" title="contador de visitas">Contador de Visitas</a></div></div>
+<!-- Fim do codigo Contador -->
+
 
 </p>
 
