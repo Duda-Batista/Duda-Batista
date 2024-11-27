@@ -26,7 +26,7 @@ Ela/Dela
 Uma mulher apaixonada por tecnologia, inteligência artificial e ciência de dados, sempre pronta para aprender e compartilhar conhecimento. Adoro explorar novos mundos, seja no universo da programação ou nas páginas de um bom livro. 🤖📚✨
 ### 📫 Como entrar em contato comigo?
 
-- [LinkedIn](https://www.linkedin.com/in/carla-batista-dev)  
+- [LinkedIn](https://www.linkedin.com/in/duda-batista)  
 
 
 
