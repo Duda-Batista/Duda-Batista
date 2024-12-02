@@ -1,6 +1,6 @@
 # Olá, Vistitante! 👋
 
-Sou Carla, estudante de Análise e Desenvolvimento de Sistemas com experiência em desenvolvimento web e análise de dados. Domino ferramentas como Python, SQL, Power BI, React, Angular e Oracle Database, além de frameworks como Pandas, NumPy, Matplotlib e tecnologias de front-end e back-end. Minha formação inclui projetos educacionais com foco em Ciência de Dados, Inteligência Artificial e desenvolvimento full-stack, sempre conectando dados e tecnologia para criar soluções completas.
+Sou a Carla, estudante de Análise e Desenvolvimento de Sistemas com experiência em desenvolvimento web e análise de dados. Domino ferramentas como Python, SQL, Power BI, React, Angular e Oracle Database, além de frameworks como Pandas, NumPy, Matplotlib e tecnologias de front-end e back-end. Minha formação inclui projetos educacionais com foco em Ciência de Dados, Inteligência Artificial e desenvolvimento full-stack, sempre conectando dados e tecnologia para criar soluções completas.
 
 Atuo também como mentora voluntária na Escola da Nuvem, fortalecendo habilidades de liderança, comunicação e trabalho em equipe. Minha trajetória inclui participação em bootcamps, hackathons e workshops, onde aprimorei a capacidade de resolver problemas e trabalhar de forma criativa em equipe. Busco oportunidades para aplicar minhas habilidades analíticas e tecnológicas, gerando insights que impactam decididamente decisões de negócios.
 ### 😄 Pronomes
