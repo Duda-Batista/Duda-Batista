@@ -35,15 +35,9 @@ Você pode me perguntar qualquer coisa, adoro conversar e trocar ideias sobre te
 "A verdadeira inteligência é aprender a aprender."
 
 
-<p alinhar="centro">
-  Contagem de visitantes<br>
-
-  <!-- Inicio codigo Contador -->
-<div align="center"><a title="busca cep" href="https://buscacepcorreios.com.br/"><img src="https://contador-gratis.com/contadores-de-visitas/271124063359959.gif" alt="busca cep"></a><div><a href="https://www.contador-gratis.com/" title="contador de visitas">Contador de Visitas</a></div></div>
-<!-- Fim do codigo Contador -->
 
 
-</p>
+
 
 
 
